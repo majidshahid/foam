@@ -1,0 +1,44 @@
+input:hover{
+   border: 10px solid lightblue;
+   outline: none;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-image: url("vojtech-bartonicek-JlpLcuMDLCo-unsplash.jpg");
+    background-size: cover;
+    
+}
+.main{
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+}
+.reg{
+    background:rgba(0, 0,0, 0.3) ;
+    padding: 10px 10px;
+}
+.reg h1{
+    color: rgb(5, 203, 238);
+    text-align: center;
+}
+.reg label{
+    font-size: larger;
+    color: rgb(238, 151, 20);
+}
+.one{
+    width: 300px;
+    height: 30px;
+    margin: 2px auto 2px auto;
+}
+.button{
+    width: 100%;
+    height: 50px;
+    color: rgb(0, 0, 0);
+    background-color:rgb(202, 112, 63);
+    font-size: larger;
+}
